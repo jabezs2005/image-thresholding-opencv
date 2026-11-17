@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** ____________________________
+**Name:** JABEZ S
 
-**Register No:** ______________________
+**Register No:** 212223040070
 
 ## Output
 
@@ -69,6 +69,7 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 - The grayscale version of the input image is displayed.
 - Serves as the input for thresholding operations.
+<img width="267" height="634" alt="Screenshot 2026-11-17 at 8 51 52 AM" src="https://github.com/user-attachments/assets/e1dabf32-a992-40df-8156-51846eb52aa1" />
 
 ### Global Thresholding
 
@@ -91,6 +92,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 - Otsu segmented image is displayed.
 - Optimal threshold value is calculated automatically.
 - Produces improved segmentation for bimodal histograms.
+
+<img width="892" height="784" alt="Screenshot 2026-11-17 at 8 51 59 AM" src="https://github.com/user-attachments/assets/00da4231-1a47-4bdb-9057-da5dc2cd89cf" />
+
 
 
 ## Result
